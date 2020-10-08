@@ -7,5 +7,4 @@ parameters:
 
   # for "split" command
   directories_to_repositories:
-    packages/first-package: "git@github.com:your-monorepo/first-package.git"
-    packages/second-package: "git@github.com:your-monorepo/second-package.git"
+    packages/fishpond: "git@github.com:m868888/fishpond.git"
